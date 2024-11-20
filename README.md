@@ -1,7 +1,7 @@
 # CODETECH-Task1
-**Name&emsp;&emsp;:**&nbsp;&emsp;D.Teja<br>
+**Name&emsp;&emsp;:**&nbsp;&emsp;KOTAPATI SAI CHANDANA<br>
 **Company&emsp;:**&nbsp;CODETECH IT SOLUTION<br>
-**ID&emsp;&emsp;&emsp;:**&emsp;&emsp;CT6WDS1720<br>
+**ID&emsp;&emsp;&emsp;:**&emsp;&emsp;CT6WDS1715<br>
 **Domanin&emsp;:**&nbsp;SQL<br>
 **Duration&emsp;:**&nbsp; August to October <br>
 **Mentor&emsp;:**&nbsp;&emsp; N.santhosh kumar<br>
